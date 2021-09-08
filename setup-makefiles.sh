@@ -19,10 +19,10 @@
 set -e
 
 # Required!
-DEVICE=vince
-VENDOR=xiaomi
+DEVICE=holland2
+VENDOR=10or
 
-INITIAL_COPYRIGHT_YEAR=2017
+INITIAL_COPYRIGHT_YEAR=2021
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

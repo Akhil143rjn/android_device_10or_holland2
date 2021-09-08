@@ -1,23 +1,18 @@
-# Device Tree for Xiaomi Redmi 5 Plus (vince)
+# Device Tree for 10or G (codenamed _"holland2"_)
 
-## Spec Sheet
+## Device specifications
 
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 2.0 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8953 Snapdragon 625   |
+| CPU                     | Octa-core 2.2 GHz Cortex-A53      |
+| Chipset                 | Qualcomm MSM8953 Snapdragon 626   |
 | GPU                     | Adreno 506                        |
 | Memory                  | 3/4 GB                            |
 | Shipped Android Version | 7.1.2                             |
 | Storage                 | 32/64 GB                          |
 | MicroSD                 | Up to 256 GB                      |
 | Battery                 | 4000 mAh (non-removable)          |
-| Dimensions              | 151 x 76 x 8.5 mm                 |
-| Display                 | 1080x2160 pixels, 5.99 (~401 PPI) |
-| Rear Camera             | 12 MP, LED flash                  |
-| Front Camera            | 5 MP, LED flash                   |
-| Release Date            | February 2018                     |
-
-## Device Picture
-
-![Redmi 5 Plus](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-5-plus-2.jpg "Redmi 5 Plus")
+| Display                 | 1920x1080 pixels, 5.5 (~401 PPI)  |
+| Rear Camera             | 13 MP, LED flash                  |
+| Front Camera            | 16 MP                             |
+| Release Date            | October 2017                      |
