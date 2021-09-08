@@ -25,8 +25,8 @@ fi
 set -e
 
 # Required!
-DEVICE=vince
-VENDOR=xiaomi
+DEVICE=holland2
+VENDOR=10or
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

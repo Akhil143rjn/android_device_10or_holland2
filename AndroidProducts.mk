@@ -14,10 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_vince.mk
+    $(LOCAL_DIR)/dot_holland2.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_vince-user \
-    dot_vince-userdebug \
-    dot_vince-eng
-
+    dot_holland2-user \
+    dot_holland2-userdebug \
+    dot_holland2-eng

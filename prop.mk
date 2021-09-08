@@ -1,5 +1,5 @@
 #
-# system.prop for vince
+# system.prop for holland2
 #
 
 # ART
