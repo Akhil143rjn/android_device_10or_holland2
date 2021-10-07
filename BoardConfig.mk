@@ -18,6 +18,10 @@ DEVICE_PATH := device/10or/holland2
 
 TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_holland2
+TARGET_RECOVERY_DEVICE_MODULES := libinit_holland2
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
